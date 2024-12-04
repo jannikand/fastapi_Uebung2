@@ -1,4 +1,4 @@
-# React Vorlage für Modul 3050 WID
+# fastapi_Uebung2 3050 WID
 
 - "template repository" mit Startercode für _React_ **SPA** (_Single Page App_) Projekte
 - basiert auf [_Vite+React+JS_](https://vite.dev/guide/) Vorlage
